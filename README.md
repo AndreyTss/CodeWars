@@ -1,7 +1,7 @@
 # CodeWars
 
 ## ⚠ Disclaimer
-##### I created this repository mainly to control my progress. I do not pursue the goal of mass distribution of solutions, so I urge everyone to decide on their own!!!
+##### I created this repository mainly to control my progress. I do not pursue the goal of mass distribution of solutions, so I urge everyone to solve on their own!!!
 > * Codewarriors are **strongly encouraged not to look** at your solutions to Kata until they have completed it themselves or at least took the time to think about their own approaches
 > * Codewarriors **should  not** submit your solutions as their own
 > * You will not be accepting contributions of any form to this repo
@@ -38,6 +38,7 @@
 #### 4 kyu
 + [Sum of Intervals](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/4_kyu/Sum%20of%20Intervals.ipynb)
 #### 5 kyu
++ [Did I Finish My Sudoku](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Did%20I%20Finish%20my%20Sudoku.ipynb)
 + [The Hashtag Generator](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/The%20Hashtag%20Generator.ipynb)
 + [Human Readable Time](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Human%20Readable%20Time.ipynb)
 + [Scramblies](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Scramblies.ipynb)
