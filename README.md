@@ -1,5 +1,7 @@
 # CodeWars
 
+![alt rank](https://www.codewars.com/users/Andre1__ts/badges/large?logo=false)
+
 ## ⚠ Disclaimer
 ##### I created this repository mainly to control my progress. I do not pursue the goal of mass distribution of solutions, so I urge everyone to solve on their own!!!
 > * Codewarriors are **strongly encouraged not to look** at your solutions to Kata until they have completed it themselves or at least took the time to think about their own approaches
@@ -32,7 +34,6 @@
 │   │   └── ...
 │   └── ...
 ```
-![alt rank](https://www.codewars.com/users/Andre1__ts/badges/large?logo=false)
 ## My Own Way and Kata Solutions
 
 #### 4 kyu
