@@ -3,7 +3,7 @@
 ![alt rank](https://www.codewars.com/users/Andre1__ts/badges/large?logo=false)
 
 ## ⚠ Disclaimer
-##### I created this repository mainly to control my progress. I do not pursue the goal of mass distribution of solutions, so I urge everyone to solve on their own!!!
+#### I created this repository mainly to control my progress. I do not pursue the goal of mass distribution of solutions, so I urge everyone to solve on their own!!!
 > * Codewarriors are **strongly encouraged not to look** at your solutions to Kata until they have completed it themselves or at least took the time to think about their own approaches
 > * Codewarriors **should  not** submit your solutions as their own
 > * You will not be accepting contributions of any form to this repo
