@@ -35,6 +35,7 @@
 │   └── ...
 ```
 ## My Own Way and Kata Solutions
+### Python
 
 #### 4 kyu
 + [Sum of Intervals](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/4_kyu/Sum%20of%20Intervals.ipynb)
@@ -76,6 +77,12 @@
 + [Remove String Spaces](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Remove%20String%20Spaces.ipynb)
 + [Square(n) Sum](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Square(n)%20Sum.ipynb)
 + [String repeat](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/String%20repeat.ipynb)
+
+### SQL
+
+#### 8 kyu
++ [SQL Basics: Simple WHERE and ORDER BY](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/SQL%20Basics%20Simple%20WHERE%20and%20ORDER%20BY.ipynb)
+
 
 
 
