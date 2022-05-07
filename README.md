@@ -39,7 +39,8 @@
 #### 4 kyu
 + [Sum of Intervals](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/4_kyu/Sum%20of%20Intervals.ipynb)
 #### 5 kyu
-+ [Did I Finish My Sudoku](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Did%20I%20Finish%20my%20Sudoku.ipynb)
++ [Is my friend cheating?](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Is%20my%20friend%20cheating.ipynb)
++ [Did I Finish My Sudoku?](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Did%20I%20Finish%20my%20Sudoku.ipynb)
 + [The Hashtag Generator](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/The%20Hashtag%20Generator.ipynb)
 + [Human Readable Time](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Human%20Readable%20Time.ipynb)
 + [Scramblies](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Scramblies.ipynb)
