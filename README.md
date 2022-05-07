@@ -81,9 +81,15 @@
 ### SQL
 
 #### 8 kyu
++ [Collect Tuition (SQL for Beginners #4)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/Collect%20Tuition%20(SQL%20for%20Beginners%20%234).ipynb)
++ [Register for the Party (SQL for Beginners #3)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/Register%20for%20the%20Party%20(SQL%20for%20Beginners%20%233).ipynb)
 + [On the Canadian Border (SQL for Beginners #2)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/On%20the%20Canadian%20Border%20(SQL%20for%20Beginners%20%232).ipynb)
 + [Adults only (SQL for Beginners #1)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/Adults%20only%20(SQL%20for%20Beginners%20%231).ipynb)
 + [SQL Basics: Simple WHERE and ORDER BY](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/SQL%20Basics%20Simple%20WHERE%20and%20ORDER%20BY.ipynb)
+
+#### 7 kyu
++ [Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/7_kyu/Countries%20Capitals%20for%20Trivia%20Night%20(SQL%20for%20Beginners%20%236).ipynb)
++ [Best-Selling Books (SQL for Beginners #5)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/7_kyu/Best-Selling%20Books%20(SQL%20for%20Beginners%20%235).ipynb)
 
 
 
