@@ -38,6 +38,7 @@
 ### Python
 
 #### 4 kyu
++ [parseInt() reloaded](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/4_kyu/parseInt()%20reloaded.ipynb)
 + [Sum of Intervals](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/4_kyu/Sum%20of%20Intervals.ipynb)
 #### 5 kyu
 + [Is my friend cheating?](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Is%20my%20friend%20cheating.ipynb)
