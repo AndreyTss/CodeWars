@@ -83,9 +83,10 @@
 ### SQL
 
 #### 7 kyu
-+ [Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/7_kyu/Countries%20Capitals%20for%20Trivia%20Night%20(SQL%20for%20Beginners%20%236).ipynb)
++ [Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/%20Easy%20SQL%20Convert%20to%20Hexadecimal.ipynb)
 + [Best-Selling Books (SQL for Beginners #5)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/7_kyu/Best-Selling%20Books%20(SQL%20for%20Beginners%20%235).ipynb)
 #### 8 kyu
++ [Easy SQL: Convert to Hexadecimal](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/%20Easy%20SQL%20Convert%20to%20Hexadecimal.ipynb)
 + [Grasshopper - Messi goals function](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/Grasshopper%20-%20Messi%20goals%20function.ipynb)
 + [Collect Tuition (SQL for Beginners #4)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/Collect%20Tuition%20(SQL%20for%20Beginners%20%234).ipynb)
 + [Register for the Party (SQL for Beginners #3)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/Register%20for%20the%20Party%20(SQL%20for%20Beginners%20%233).ipynb)
