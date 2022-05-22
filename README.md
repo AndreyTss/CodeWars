@@ -73,6 +73,7 @@
 + [You're a square!](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/You're%20a%20square!.ipynb)
 + [Regex validate PIN code](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/Regex%20validate%20PIN%20code.ipynb)
 #### 8 kyu
++ [Reversed Strings](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Reversed%20Strings.ipynb)
 + [Find the smallest integer in the array](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Find%20the%20smallest%20integer%20in%20the%20array.ipynb)
 + [Grasshopper - Summation](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Grasshopper%20-%20Summation.ipynb)
 + [Sum of positive](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Sum%20of%20positive.ipynb)
