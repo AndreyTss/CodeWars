@@ -61,6 +61,7 @@
 + [Replace With Alphabet Position](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Replace%20With%20Alphabet%20Position.ipynb)
 + [Find the unique number](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/%20Find%20the%20unique%20number.ipynb)
 #### 7 kyu
++ [Vowel Count](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/Vowel%20Count.ipynb)
 + [Don't give me five!](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/Don't%20give%20me%20five!.ipynb)
 + [A Needle in the Haystack](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/A%20Needle%20in%20the%20Haystack.ipynb)
 + [Sum of two lowest positive integers](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/Sum%20of%20two%20lowest%20positive%20integers.ipynb)
