@@ -42,6 +42,7 @@
 + [parseInt() reloaded](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/4_kyu/parseInt()%20reloaded.ipynb)
 + [Sum of Intervals](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/4_kyu/Sum%20of%20Intervals.ipynb)
 #### 5 kyu
++ [Directions Reduction](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Directions%20Reduction.ipynb)
 + [Is my friend cheating?](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Is%20my%20friend%20cheating.ipynb)
 + [Did I Finish My Sudoku?](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Did%20I%20Finish%20my%20Sudoku.ipynb)
 + [The Hashtag Generator](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/The%20Hashtag%20Generator.ipynb)
@@ -49,6 +50,7 @@
 + [Scramblies](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Scramblies.ipynb)
 + [Not very secure](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Not%20very%20secure.ipynb)
 #### 6 kyu
++ [Take a Ten Minutes Walk](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Take%20a%20Ten%20Minutes%20Walk.ipynb)
 + [Counting Duplicates](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Counting%20Duplicates.ipynb)
 + [Detect Pangram](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Detect%20Pangram.ipynb)
 + [Find the odd int](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Find%20the%20odd%20int.ipynb)
