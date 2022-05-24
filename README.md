@@ -28,8 +28,10 @@
 ├── SQL/
 │   ├── 2022/
 │   │   ├── 1_kyu/
+│   │   │    ├── Name_of_Kata.ipynb
 │   │   │    └── Name_of_Kata.ipynb
 │   │   ├── 2_kyu/
+│   │   │    ├── Name_of_Kata.ipynb
 │   │   │    └── Name_of_Kata.ipynb
 │   │   └── ...
 │   └── ...
@@ -62,6 +64,7 @@
 + [Replace With Alphabet Position](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Replace%20With%20Alphabet%20Position.ipynb)
 + [Find the unique number](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/%20Find%20the%20unique%20number.ipynb)
 #### 7 kyu
++ [Digital cypher](https://github.com/AndreyTss/CodeWars/blob/10f473a22c3d877f7ac79bc33b09aca72938fc1e/Python/2022/7_kyu/Digital%20cypher.ipynb)
 + [Vowel Count](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/Vowel%20Count.ipynb)
 + [Don't give me five!](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/Don't%20give%20me%20five!.ipynb)
 + [A Needle in the Haystack](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/A%20Needle%20in%20the%20Haystack.ipynb)
