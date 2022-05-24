@@ -18,8 +18,10 @@
 ├── Python/
 │   ├── 2022/
 │   │   ├── 1_kyu/
+│   │   │    ├── Name_of_Kata.ipynb
 │   │   │    └── Name_of_Kata.ipynb
 │   │   ├── 2_kyu/
+│   │   │    ├── Name_of_Kata.ipynb
 │   │   │    └── Name_of_Kata.ipynb
 │   │   └── ...
 │   └── ...
@@ -78,6 +80,7 @@
 + [You're a square!](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/You're%20a%20square!.ipynb)
 + [Regex validate PIN code](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/Regex%20validate%20PIN%20code.ipynb)
 #### 8 kyu
++ [You Can't Code Under Pressure #1](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/You%20Can't%20Code%20Under%20Pressure%20%231.ipynb)
 + [Opposites Attract](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Opposites%20Attract.ipynb)
 + [Reversed Strings](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Reversed%20Strings.ipynb)
 + [Find the smallest integer in the array](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Find%20the%20smallest%20integer%20in%20the%20array.ipynb)
