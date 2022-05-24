@@ -55,6 +55,7 @@
 + [Scramblies](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Scramblies.ipynb)
 + [Not very secure](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Not%20very%20secure.ipynb)
 #### 6 kyu
++ [Merging and moving bubbles along a row of boxes](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Merging%20and%20moving%20bubbles%20along%20a%20row%20of%20boxes.ipynb)
 + [Take a Ten Minutes Walk](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Take%20a%20Ten%20Minutes%20Walk.ipynb)
 + [Counting Duplicates](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Counting%20Duplicates.ipynb)
 + [Detect Pangram](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Detect%20Pangram.ipynb)
