@@ -83,6 +83,7 @@
 + [You're a square!](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/You're%20a%20square!.ipynb)
 + [Regex validate PIN code](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/Regex%20validate%20PIN%20code.ipynb)
 #### 8 kyu
++ [Convert number to reversed array of digits](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Convert%20number%20to%20reversed%20array%20of%20digits.ipynb)
 + [Convert boolean values to strings 'Yes' or 'No'](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'.ipynb)
 + [You Can't Code Under Pressure #1](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/You%20Can't%20Code%20Under%20Pressure%20%231.ipynb)
 + [Opposites Attract](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Opposites%20Attract.ipynb)
