@@ -102,6 +102,7 @@
 ### SQL
 
 #### 7 kyu
++ [SQL Basics: Repeat and Reverse](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/7_kyu/%20SQL%20Basics%20Repeat%20and%20Reverse.ipynb)
 + [Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/%20Easy%20SQL%20Convert%20to%20Hexadecimal.ipynb)
 + [Best-Selling Books (SQL for Beginners #5)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/7_kyu/Best-Selling%20Books%20(SQL%20for%20Beginners%20%235).ipynb)
 #### 8 kyu
