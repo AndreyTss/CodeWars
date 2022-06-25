@@ -57,6 +57,7 @@
 + [Scramblies](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Scramblies.ipynb)
 + [Not very secure](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Not%20very%20secure.ipynb)
 #### 6 kyu
++ [Highest Scoring Word](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Highest%20Scoring%20Word.ipynb)
 + [Consecutive strings](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Consecutive%20strings.ipynb)
 + [Merging and moving bubbles along a row of boxes](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Merging%20and%20moving%20bubbles%20along%20a%20row%20of%20boxes.ipynb)
 + [Take a Ten Minutes Walk](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Take%20a%20Ten%20Minutes%20Walk.ipynb)
@@ -70,6 +71,8 @@
 + [Replace With Alphabet Position](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Replace%20With%20Alphabet%20Position.ipynb)
 + [Find the unique number](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/%20Find%20the%20unique%20number.ipynb)
 #### 7 kyu
++ [Categorize New Member](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/Categorize%20New%20Member.ipynb)
++ [String ends with?](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/String%20ends%20with.ipynb)
 + [Digital cypher](https://github.com/AndreyTss/CodeWars/blob/10f473a22c3d877f7ac79bc33b09aca72938fc1e/Python/2022/7_kyu/Digital%20cypher.ipynb)
 + [Vowel Count](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/Vowel%20Count.ipynb)
 + [Don't give me five!](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/Don't%20give%20me%20five!.ipynb)
@@ -84,6 +87,12 @@
 + [You're a square!](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/You're%20a%20square!.ipynb)
 + [Regex validate PIN code](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/7_kyu/Regex%20validate%20PIN%20code.ipynb)
 #### 8 kyu
++ [Calculate average](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Calculate%20average.ipynb)
++ [Century From Year](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Century%20From%20Year.ipynb)
++ [Function 1 - hello world](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Function%201%20-%20hello%20world.ipynb)
++ [Rock Paper Scissors!](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Rock%20Paper%20Scissors!.ipynb)
++ [Sum Mixed Array](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Sum%20Mixed%20Array.ipynb)
++ [You only need one - Beginner](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/You%20only%20need%20one%20-%20Beginner.ipynb)
 + [Convert number to reversed array of digits](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Convert%20number%20to%20reversed%20array%20of%20digits.ipynb)
 + [Convert boolean values to strings 'Yes' or 'No'](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'.ipynb)
 + [You Can't Code Under Pressure #1](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/8_kyu/You%20Can't%20Code%20Under%20Pressure%20%231.ipynb)
@@ -102,6 +111,7 @@
 ### SQL
 
 #### 7 kyu
++ [SQL: Padding Encryption](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/7_kyu/SQL%20Padding%20Encryption.ipynb)
 + [SQL Basics: Repeat and Reverse](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/7_kyu/%20SQL%20Basics%20Repeat%20and%20Reverse.ipynb)
 + [Countries Capitals for Trivia Night (SQL for Beginners #6)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/8_kyu/%20Easy%20SQL%20Convert%20to%20Hexadecimal.ipynb)
 + [Best-Selling Books (SQL for Beginners #5)](https://github.com/AndreyTss/CodeWars/blob/master/SQL/2022/7_kyu/Best-Selling%20Books%20(SQL%20for%20Beginners%20%235).ipynb)
