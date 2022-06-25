@@ -57,6 +57,7 @@
 + [Scramblies](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Scramblies.ipynb)
 + [Not very secure](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/5_kyu/Not%20very%20secure.ipynb)
 #### 6 kyu
++ [Count the Islands](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Count%20the%20Islands.ipynb)
 + [Highest Scoring Word](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Highest%20Scoring%20Word.ipynb)
 + [Consecutive strings](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Consecutive%20strings.ipynb)
 + [Merging and moving bubbles along a row of boxes](https://github.com/AndreyTss/CodeWars/blob/master/Python/2022/6_kyu/Merging%20and%20moving%20bubbles%20along%20a%20row%20of%20boxes.ipynb)
